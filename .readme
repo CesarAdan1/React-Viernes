@@ -1,0 +1,5 @@
+Clone the repo 
+2) En la consola:
+    git clone "url"
+3) run npm install in the terminal path project folder
+3) run npm start 
